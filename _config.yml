@@ -41,9 +41,9 @@ navigation:
   - text: About
     url: /about
   - text: Research
-    url: /Research
+    url: /research
   - text: Teaching
-    url: /Teaching
+    url: /teaching
   - text: Contact Me
     url: /contact
 
