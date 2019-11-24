@@ -5,7 +5,7 @@ meta_description: ''
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'profile.jpg'
+  image: 'profile.JPG'
   greetings: "I am a physical Oceanographer interested in the large ocean circulation, currently based at Johns Hopkins University as a postdoctoral researcher."
   # greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
@@ -24,7 +24,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Social links
 # twitter: 'justgoodthemes'
 facebook: 'mike.jmnez86'
-github: 'Mike.jmnez'
+github: 'Mikejmnez'
 # codepen: 'username'
 # dribbble: 'username'
 # medium: '@username'
