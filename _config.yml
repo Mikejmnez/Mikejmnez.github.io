@@ -39,7 +39,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about
+    url: /About
   - text: Research
     url: /research
   - text: Teaching
