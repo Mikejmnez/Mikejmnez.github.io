@@ -44,10 +44,11 @@ navigation:
     url: /research
   - text: Teaching
     url: /teaching
-  # - text: CV
+  - text: CV
+    url:
   #   url: [CV]({{ site.baseurl }}{% link /assets/files/CV_Miguel2019.pdf %})
   - text: mjimen17@jhu.edu
-    # url: /contact
+    url: 
 
 # Required Plugins
 plugins_dir:
