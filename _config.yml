@@ -44,8 +44,8 @@ navigation:
     url: /research
   - text: Teaching
     url: /teaching
-  - text: /CV
-    url: ({{ site.baseurl }}{% link /assets/files/CV_Miguel2019.pdf %})
+  - text: CV
+    url: [CV]({{ site.baseurl }}{% link /assets/files/CV_Miguel2019.pdf %})
   - text: mjimen17@jhu.edu
     # url: /contact
 
