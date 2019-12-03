@@ -46,7 +46,7 @@ navigation:
     url: /teaching
   - text: CV
     url: ({{ site.baseurl }}{% link /assets/files/Miguel_CV2019.pdf %})
-  - text: mjimen17@jhu.edu
+  - text: mjimen17@jh.edu
     url: 
 
 # Required Plugins
