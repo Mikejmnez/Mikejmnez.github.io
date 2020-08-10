@@ -3,6 +3,6 @@ title: About
 featured_image: /assets/images/pages/Hopkins.png
 ---
 
-I am a physical oceanographer interested in the large ocean circulation, currently a postdoctoral researcher in Prof. Thomas Haines Lab at Johns Hopkins University. Previously, I was a PhD student at the University of Washington where I worked on idealized simulations of rotating, stratified flows across finite amplitude topography. My current [CV][1] is accessible for download
+I am a physical oceanographer interested in the role of mesoscale (O(10-100km)) and submesoscale (O(1-10km)) process on the large ocean circulation. Currently I am a Postdoctoral fellow at Johns Hopkins University in Prof. Thomas Haines Lab. I completed my PhD at the University of Washington where I worked on idealized simulations of rotating, stratified flows across finite amplitude topography under the supervision of Prof. Luanne Thompson. My current [CV][1] is accessible for download.
 
 [1]:{{ site.url }}/assets/files/Miguel_CV2019.pdf
