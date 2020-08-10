@@ -6,8 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'profile0.png'
-  greetings: "I am a physical oceanographer interested in the large ocean circulation, currently a postdoctoral researcher at Johns Hopkins University."
-  # greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "I am a computational physical oceanographer interested in the role of small scale processes (1-100km) in the large ocean circulation. I am currently a postdoctoral fellow at Johns Hopkins University."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
