@@ -13,6 +13,6 @@ I feel passionate about the study of **Geophysical Fluid Dynamics** as the found
 
 
 
-My current [CV][1] is accessible for download.
+My current [CV][1] is accessible for download. Thank you for stopping by!
 
 [1]:{{ site.url }}/assets/files/Miguel_CV2019.pdf
