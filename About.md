@@ -9,8 +9,7 @@ Currently I am a Postdoctoral fellow at Johns Hopkins University in Prof. Thomas
 
 I feel passionate about the study of **Geophysical Fluid Dynamics** as the foundation for understanding basic processes in physical oceanography
 
->The frustration of trying to solve a problem, one of those that hunt us in our dreams or keep us awake at night, should be our everyday necessity. Is there any other place but the sciences that provide us with such a feeling of being completely lost, when facing a new problem? <cite>A. Minzoni</cite>
-
+>"The frustration of trying to solve a problem, one of those that hunt us in our dreams or keep us awake at night, should be our everyday necessity. Is there anything other than the sciences that provide us with the feeling of being completely lost, when facing a new problem?" <cite>A. Minzoni</cite>
 
 
 
