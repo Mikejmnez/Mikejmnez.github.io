@@ -5,7 +5,7 @@ featured_image: /assets/images/pages/Hopkins.png
 ---
 
 I am interested in the role of mesoscale (O(10-100km)) and submesoscale (O(1-10km)) process on the large ocean circulation, which I investigate combining the use of idealized numerical simulations, analytical models and high resolution global circulation models.
-Currently I am a Postdoctoral fellow at Johns Hopkins University in Prof. Thomas Haines Lab. I completed my PhD in **physical oceanography** at the University of Washington where I worked on idealized simulations of rotating, stratified flows across finite amplitude topography under the supervision of Prof. Luanne Thompson.
+Currently I am a Postdoctoral fellow at Johns Hopkins University in Prof. Thomas Haines Lab. I completed my PhD in physical oceanography at the **University of Washington** where I worked on idealized simulations of rotating, stratified flows across finite amplitude topography under the supervision of Prof. Luanne Thompson, with a focus on bottom intensified submesoscale and mesoscale dynamics.
 
 I feel passionate about the study of **Geophysical Fluid Dynamics** as the foundation for understanding basic processes in physical oceanography
 

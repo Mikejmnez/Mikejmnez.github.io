@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'profile0.png'
-  greetings: "I am a computational physical oceanographer interested in the role of small scale processes (1-100km) in the large ocean circulation. I am currently a postdoctoral fellow at Johns Hopkins University."
+  greetings: "I am a computational physical oceanographer interested furthering out understanding of the state of the ocean, through the use of computer simulations and global ocean circulation models. I am currently a postdoctoral fellow at Johns Hopkins University."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
